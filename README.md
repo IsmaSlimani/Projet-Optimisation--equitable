@@ -26,6 +26,7 @@ définition de l’équité), et qui conduit à un vecteur z(x) équilibré.
 
 
 Notre travail portera tout d’abord sur la linéarisation de la fonction objectif du problème d’optimisation équitable puis, traitera de ses différentes applications que voici :
+
 — Le partage équitable de biens indivisibles
 
 — La sélection multicritère de projets
